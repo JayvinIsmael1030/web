@@ -1,0 +1,88 @@
+body{
+	width:100%;
+	height: auto;
+}
+
+.home{
+	font-family: Bradley Hand ITC;
+	font-weight: bolder;
+	font-size: 20px;
+	
+}
+
+.about{
+	font-family: Bradley Hand ITC;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.mission{
+	font-family: Bradley Hand ITC;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.vision{
+	font-family: Bradley Hand ITC;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.contact{
+	font-family: Bradley Hand ITC;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.section1{
+	background: url(photos/black-and-white-close-up-earphones-248510.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 470px;
+	background-attachment: fixed;
+	display: block;
+	margin-bottom: 100px;
+}
+
+.hello{
+	color: #0baade;
+}
+
+.section2{
+	
+}
+
+.header2{
+	font-weight: bold;
+	font-family: Bradley Hand ITC;
+	text-align: center;
+	font-size: 50px;
+}
+
+.sec2t1{
+	font-weight: bolder;
+}
+
+.sec2t2{
+	font-weight: bolder;
+}
+
+.sec2t3{
+	font-weight: bolder;
+}
+.header1{
+	text-align: center;
+	margin-top: 150px;
+	font-family: Bradley Hand ITC;
+	font-weight: bold;
+	font-size: 80px;
+}
+footer{
+	text-align: center;
+	line-height:100px;
+	overflow: hidden;
+	background-color: #d9d9d9;
+}
+footer h6{
+	overflow: hidden;
+}
